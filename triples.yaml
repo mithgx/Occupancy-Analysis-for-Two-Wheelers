@@ -1,0 +1,8 @@
+train: X:/mith/COLLEGE/PROJECTS/Capstone/DATASET1_HELMET/train/images
+val: X:/mith/COLLEGE/PROJECTS/Capstone/DATASET1_HELMET/valid/images
+test: X:/mith/COLLEGE/PROJECTS/Capstone/DATASET1_HELMET/test/images
+
+
+names:
+  0: legal_2_or_less
+  1: illegal_3_or_more

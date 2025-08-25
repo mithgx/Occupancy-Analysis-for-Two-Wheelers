@@ -1,0 +1,44 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Data and large media files
+*.mp4
+*.avi
+*.mov
+yolov8n.pt
+results/
+test/
+
+train/
+valid/
+labels_backup_*/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+README
+README.md
+README_roboflow.txt
+README_dataset.txt
+
+detected_aa.mp4
+aa.mp4
+1.ipynb 
+train_triples_notebook.ipynb
+
+
+
+# Batch scripts (optional)
+run_*.bat
+run_detection.bat
+run_training.bat
+
