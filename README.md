@@ -226,9 +226,6 @@ This is a capstone project, but contributions and improvements are welcome:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -236,16 +233,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Ultralytics**: For the YOLOv8 implementation
 - **OpenCV**: For computer vision utilities
 - **PyTorch**: For deep learning framework
-
-## 📞 Contact
-
-For questions about this capstone project:
-- **Student**: [Your Name]
-- **Institution**: [Your University]
-- **Project**: Triples Detection on 2-Wheelers
-
----
-
-**⚠️ Disclaimer**: This system is designed for educational and research purposes. Always follow local traffic laws and safety regulations. The developers are not responsible for any misuse of this technology.
 
 
